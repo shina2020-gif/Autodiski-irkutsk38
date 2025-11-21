@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>АвтоИркутск38 - Автозапчасти и диски в Иркутске</title>
+    <style>
+        /* Весь CSS код из предыдущего сообщения */
+        :root {
+            --birch-green: #9CB98C;
+            --birch-light: #C1D8B5;
+            --purple-main: #6A4C93;
+            --purple-dark: #4A306D;
+            --purple-light: #8B6BAE;
+            --background: #F8F9FA;
+            --text-dark: #2C3E50;
+            --text-light: #7F8C8D;
+        }
+        /* ... остальные стили ... */
+    </style>
+</head>
+<body>
+    <!-- Весь HTML код из предыдущего сообщения -->
+    <header>
+        <!-- ... -->
+    </header>
+    <!-- ... остальная разметка ... -->
+</body>
+</html>
